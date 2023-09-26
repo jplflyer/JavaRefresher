@@ -13,6 +13,7 @@ I'll produce a Java HTTP Server and Client.
    - [x] Starting threads: Runnable, Anonymous Runnable, extend Thread, Lambda
    - [x] Synchronized
    - [x] Wait and Notify
+- [ ] Lombok
 
 # Java 8
 
